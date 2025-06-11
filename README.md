@@ -1,6 +1,6 @@
 # 🗳️ E-Voting Portal
 
-A secure and user-friendly **Java-based E-Voting System** built as a **SE Mini Project** for the Bachelor of Engineering (Information Technology) degree at **Thadomal Shahani Engineering College**.
+A secure and user-friendly **Java-based E-Voting System** built as a **SE Mini Project(SEM 3)** for the Bachelor of Engineering (Information Technology) degree at **Thadomal Shahani Engineering College**.
 
 This project simulates real-world electronic voting scenarios using **Java Swing**, **AWT**, and **MySQL**, offering enhanced accessibility, security, and transparency.
 
